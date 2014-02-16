@@ -1,5 +1,5 @@
 es:
-  about:
+  faq:
     title: "Acerca de Bitcoin - Bitcoin"
     pagetitle: "Acerca de Bitcoin"
     history: "Un poco de historia"
@@ -65,7 +65,7 @@ es:
     instanttext: "Una transacción Bitcoin, por lo general, se recibe en unos pocos segundos y puede confirmarse en menos de 10 minutos. Antes de eso, la transacción puede considerarse auténtica pero reversible. Si usted realmente requiere de transacciones instantáneas, se recomienda pedir una pequeña comisión y utilizar un sistema de detección de doble pago."
     micro: "Micro pagos económicos"
     microtext: "Bitcoin ofrece las tarifas más bajas de procesamiento de pagos para cualquier tipo de transacción, incluyendo micro pagos. Lo que significa que también se puede utilizar para diseñar e implementar nuevos servicios creativos en línea que no podrían existir anteriormente debido a las limitaciones financieras."
-  bitcoin-for-enthusiasts:
+  innovation:
     title: "Bitcoin para Entusiastas - Bitcoin"
     pagetitle: "Bitcoin para Entusiastas"
     summary: "Bitcoin está cambiando el mundo de las finanzas, dándole el control sobre su dinero."
@@ -435,7 +435,7 @@ es:
     menu-bitcoin-for-individuals: Personas
     menu-bitcoin-for-businesses: Empresas
     menu-bitcoin-for-developers: Desarrolladores
-    menu-bitcoin-for-enthusiasts: Entusiastas
+    menu-innovation: Innovación
     menu-bitcoin-for-press: 
     menu-how-it-works: "Como funciona"
     menu-vocabulary: Vocabulario
@@ -444,14 +444,14 @@ es:
     menu-development: Desarrollo
     menu-support-bitcoin: Participar
     menu-foundation: Fundación
-    menu-about: "Acerca de"
+    menu-faq: "Acerca de"
     menu-choose-your-wallet: "Elige tu monedero"
     menu-you-need-to-know: "Debes saber"
     footer: "Publicado bajo la <a href=\"http://opensource.org/licenses/mit-license.php\" target=\"_blank\">licencia MIT</a>"
   url:
-    about: acerca-de
+    faq: acerca-de
     bitcoin-for-developers: bitcoin-para-desarrolladores
-    bitcoin-for-enthusiasts: bitcoin-para-entusiastas
+    innovation: innovacion
     bitcoin-for-individuals: bitcoin-para-personas
     bitcoin-for-businesses: bitcoin-para-empresas
     bitcoin-for-press: 

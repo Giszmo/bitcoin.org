@@ -1,5 +1,0 @@
-dst: innovation
-except:
-  ar: true
-  es: true
-  fa: true
